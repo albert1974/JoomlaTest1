@@ -30,3 +30,16 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 Import code
+
+
+
+Joomla properties:
+http://localhost:28882/
+
+login: 	admin	
+pwd: 	Durenn12345
+
+
+DataBase^ 	my_site_db989
+user		joomlauser989
+password	[Z*|N06ng]Em
